@@ -1,0 +1,3 @@
+In Python you can make lists.
+In Python you can make objects called dictionaries.
+In Python you can ask for user input.
